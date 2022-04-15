@@ -12,6 +12,7 @@
     "@openzeppelin/contracts": "^4.5.0",
     "dotenv": "^16.0.0",
     "ganache-cli": "^6.12.2",
+    "hardhat-contract-sizer": "^2.5.1",
     "install": "^0.13.0",
     "react-bootstrap": "^2.2.3",
     "solidity-coverage": "^0.7.20"

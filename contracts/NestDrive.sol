@@ -29,7 +29,6 @@ contract NestDrive is Pausable {
     /// @dev mapping outlining all files created
     mapping(uint => File) public Allfiles;
 
-   
 
     /// @dev mapping of blacklisted addresses
     mapping(address => bool) public blackListedAddresses;
